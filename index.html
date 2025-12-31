@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="main.js"></script>
+        <script type="text/javascript" src="./structure/object.js"></script>
+        <script type="text/javascript" src="./references/jquery-3.7.1.js"></script>
+        <script type="text/javascript">
+         $(document).ready(function () {
+             Armor.Load();
+         });
+      </script>
+    </head>
+    <body onload="">
+        <select id="head">
+
+        </select>
+        <div id="test"></div>
+        <div class="container-armor">
+            <div class="container-armor-detail">
+                <div class="armor-icon"></div>
+                <div>
+                    <div class="armor-name width-full">Test Name</div>
+                    <div class="armor-skill width-full">Test Skill<br>Test Skill</div>
+                </div>
+            </div>
+            <div class="armor-slots">
+                <div id="slot1" class="armor-deco"></div>
+                <div id="slot2" class="armor-deco"></div>
+                <div id="slot3" class="armor-deco"></div>
+            </div>
+        </div>
+    </body>
+</html>

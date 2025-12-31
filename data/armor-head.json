@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Test Piece 1",
+    "skill1": "Test Skill 1",
+    "skill2": "Test Skill 2",
+    "skill3": "Test Skill 3",
+    "setSkill": "Test Set Skill"
+  },
+  {
+    "name": "Test Piece 2",
+    "skill1": "Test Skill 1",
+    "skill2": "Test Skill 2",
+    "skill3": "Test Skill 3",
+    "setSkill": "Test Set Skill"
+  },
+  {
+    "name": "Test Piece 2",
+    "skill1": "Test Skill 1",
+    "skill2": "Test Skill 2",
+    "skill3": "Test Skill 3",
+    "setSkill": "Test Set Skill"
+  }
+]
